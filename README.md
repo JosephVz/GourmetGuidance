@@ -61,7 +61,7 @@ or
 ![alt text](<website 2.PNG>)
 
 ```
-Deployed Website: https://project2foodapp-ba64a4c86a5d.herokuapp.com/home
+Deployed Website: https://project2gourmetguidance-420dba142b67.herokuapp.com/
 ```
 
 ## 6. Usage
