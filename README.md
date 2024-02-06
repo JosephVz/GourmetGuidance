@@ -56,6 +56,14 @@ PASSWORD_DB
 
 -- http://localhost:3001/
 
+or
+
+![alt text](<website 2.PNG>)
+
+```
+Deployed Website:
+```
+
 ## 6. Usage
 
 1. Create an account with a username and password of your choice on the sign-up page.
